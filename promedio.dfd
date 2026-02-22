@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingresa valor A'
+5
+1
+4
+num1
+4
+1
+17
+'ingresa valor B'
+5
+1
+4
+num2
+4
+1
+18
+'ingresar valor C'
+5
+1
+4
+num3
+6
+2
+4
+suma
+15
+num1+num2+num3 
+3
+pro
+19
+(num1+num2+num3 )/3
+4
+1
+35
+num1,'+',num2,'+',num3,'+','=',suma
+4
+1
+21
+'el promedio es:',pro
+1
